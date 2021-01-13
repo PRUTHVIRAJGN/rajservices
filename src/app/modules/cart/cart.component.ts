@@ -20,3 +20,16 @@ export class CartComponent implements OnInit {
   }
 
 }
+
+/*
+
+public sub: Observable<string>;
+public a : string;
+ngOnInit() {
+            this.sub = this.route.queryParamMap
+            .map((params) => params.get('a'));
+            this.sub.subscribe((val) => this.a = val));
+            console.log(this.a);
+}
+
+*/
