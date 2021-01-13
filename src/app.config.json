@@ -1,0 +1,22 @@
+{
+    "appBaseUrl":"http://localhost:4200",
+    "title":"pruthvi",
+    "searchSuggest":"What are you Looking for?",
+    "searchPlaceholder":"Search Products...",
+    "searchTooltip":"Search",
+
+    "cartTooltip":"Cart",
+
+    "myAccountLogin":"Login",
+    "myAccountRegister":"Register",
+    "myAccountAccount":"My Account",
+    "myAccountTooltip":"My Account",
+    "myAccountWishlist":"My Wishlists",
+    "myAccountOrders":"My Orders",
+    "myAccountCheckout":"Checkout",
+    "myAccountAddress":"My Address",
+    "myAccountCompare":"Compare",
+    "myAccountLogout":"Logout",
+
+    "settingsTooltip":"Settings"
+}
